@@ -11,7 +11,7 @@ import SwiftUI
 struct RunRotApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            WelcomeScreenView()
         }
     }
 }
